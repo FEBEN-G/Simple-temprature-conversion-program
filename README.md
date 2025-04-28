@@ -1,2 +1,3 @@
-#Temprature Conversion Program
-simple temprature conversion program using html,css and javascript.
+# Temperature Converter
+
+A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin using HTML, CSS, and JavaScript.
